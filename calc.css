@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+table{
+    width:20%;
+}
+tr{
+    width:60%;
+    margin: 0%;
+}
+td input{
+    width: 110%;
+    height:80%;
+    text-align: center;
+    margin: 2%;
+}

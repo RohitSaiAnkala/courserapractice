@@ -1,0 +1,16 @@
+
+div img{
+   display: inline-block;
+  margin-top: 50px;
+  margin-bottom: 3%;
+  padding:5%;
+  background-color: transparent;
+} 
+p{
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+}
+span{
+  color: blue;
+}
